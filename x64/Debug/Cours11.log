@@ -1,0 +1,68 @@
+﻿  Source.cpp
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(207,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(153,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(163,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(164,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(165,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(422,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(435,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsUser.h(173,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsUser.h(162,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsTransferScreen.h(47,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsTransferScreen.h(47,58): warning C4244:         with
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsTransferScreen.h(47,58): warning C4244:         [
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsTransferScreen.h(47,58): warning C4244:             T=double
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsTransferScreen.h(47,58): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsLoginScreen.h(45,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(377,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsBankClient.h(439,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\Cours11\clsUser.h(334,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Cours11.vcxproj -> C:\Users\PC\Downloads\Telegram Desktop\ConsoleApplication2\Mohammed Course 6\Cours11\x64\Debug\Cours11.exe
